@@ -6,6 +6,8 @@ OS: Tested in Gentoo Linux.  Should work for other GNU/Linux distros.  It might 
 
 Create a file named 'wikipedia' with your plain training text in it in the same directory as the compiled code will be stored.
 
-Compile the code using "$ g++ main.cpp -std=c++11 -larmadillo -o wrnn.out"
+Compile the code using 
+$ g++ main.cpp -std=c++11 -larmadillo -o wrnn.out
 
-Run wrnn.out using "$ ./wrnn.out"
+Run wrnn.out using 
+$ ./wrnn.out
