@@ -11,3 +11,5 @@ Compile the code using
 
 Run wrnn.out using 
 >$ ./wrnn.out
+
+Author: Stuart Botfield
